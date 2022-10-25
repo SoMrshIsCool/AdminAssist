@@ -1,33 +1,6 @@
-<br>
-
-<div align = center>
-
-[![Badge Release]][Releases]   
-[![Badge Commit]][Commit]   
-[![Badge Downloads]][Releases]   
-[![Badge Watchers]][Watchers]
-
-<br>
-<br>
-
 # AdminAssist
 
 *A **SMod** server plugin for **[SCP:Secret Laboratory]**.*
-
-<br>
-<br>
-<br>
-
-[![Button Installation]][Wiki]   
-[![Button Issues & Ideas]][Issues]   
-[![Button Documentation]][Documentation]   
-[![Button Development]][Projects]
-
-</div>
-
-<br>
-<br>
-<br>
 
 ## Features
 
@@ -53,7 +26,7 @@
 
 <br>
 
-### Friendly Fire
+# Friendly Fire
 
 *For every act of friendly fire, the server* <br>
 *console and the log files will take note.* <br>
@@ -63,7 +36,7 @@
 
 <br>
 
-### Advanced GodMode
+# Advanced GodMode
 
 Turn off damage for players.
 
@@ -72,12 +45,12 @@ Turn off damage for players.
 
 <br>
 
-### Player Statistics
+# Player Statistics
 
 *Keeps track of player statistics and* <br>
 *stores them in a dedicated files.*
 
-#### Tracked
+# Tracked
 
 - `Kills`
 - `Team Kills`
@@ -87,36 +60,12 @@ Turn off damage for players.
 
 <br>
 
-### Join Message
+# Join Message
 
 *The server window information for* <br>
 *every player that joins the server.*
 
 <br>
-<br>
 
-
-<br>
-
-<!----------------------------------------------------------------------------->
-
-
-[SCP:Secret Laboratory]: https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/
-
-[Documentation]: Documentation/#Top
-
-
-<!--------------------------------[ Badges ]----------------------------------->
-
-[Badge Downloads]: https://img.shields.io/github/downloads/Rnen/AdminToolbox/total.svg?style=flat&color=A9225C&logoColor=white&logo=DocuSign
-[Badge Watchers]: https://img.shields.io/github/watchers/Rnen/AdminToolbox.svg?style=flat&label=Watcher&color=73398D&logoColor=white&logo=Git&maxAge=2592000
-[Badge Release]: https://img.shields.io/github/v/release/Rnen/AdminToolbox?style=flat&color=569A31&logoColor=white&logo=SCPFoundation
-[Badge Commit]: https://img.shields.io/github/last-commit/Rnen/AdminToolbox?style=flat&color=00A8E1&logoColor=white&logo=GitHub
-
-
-<!-------------------------------[ Buttons ]----------------------------------->
-
-[Button Issues & Ideas]: https://img.shields.io/badge/Issues_&_Ideas-00A8E1?style=for-the-badge&logoColor=white&logo=AskUbuntu
-[Button Installation]: https://img.shields.io/badge/Installation-569A31?style=for-the-badge&logoColor=white&logo=DocuSign
-[Button Documentation]: https://img.shields.io/badge/Documentation-A9225C?style=for-the-badge&logoColor=white&logo=GitBook
-[Button Development]: https://img.shields.io/badge/Projects-73398D?style=for-the-badge&logoColor=white&logo=AzureArtifacts
+# AdminAssist
+Server Administration Toolbox Plugin for SCP: Secret Lab
